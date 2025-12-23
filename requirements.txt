@@ -1,0 +1,6 @@
+# TSL Tally Tester Requirements
+# No external dependencies - uses only Python standard library
+# tkinter is included with Python on Windows
+
+# For building standalone executable:
+# pip install pyinstaller
