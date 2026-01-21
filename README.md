@@ -99,7 +99,7 @@ MIT License - Free for personal and commercial use.
 
 ## Contact
 
-**Author**: Brandon Cecil  
+**Author**: Brandon Cecil
 **Company**: Fresh AV Labs
 **Project Link**: https://github.com/bcecilpgh/TSL-Tally-Tester
 
